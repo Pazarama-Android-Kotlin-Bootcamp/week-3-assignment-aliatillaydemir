@@ -13,4 +13,6 @@ class RemoteDataSource @Inject constructor(  //api interface'i inject ediyoruz. 
         return avatarApi.getAvatar(queries)
     }
 
+
+
 }

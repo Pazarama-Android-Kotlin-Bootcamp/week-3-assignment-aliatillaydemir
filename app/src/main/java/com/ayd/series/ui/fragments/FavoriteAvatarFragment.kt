@@ -1,4 +1,4 @@
-package com.ayd.series.UI.fragments
+package com.ayd.series.ui.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

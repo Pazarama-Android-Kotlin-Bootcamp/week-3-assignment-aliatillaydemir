@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/avatarFragment"
-        android:name="com.ayd.series.UI.fragments.AvatarFragment"
+        android:name="com.ayd.series.ui.fragments.AvatarFragment"
         android:label="Avatar"
         tools:layout="@layout/fragment_avatar" />
     <fragment
         android:id="@+id/detailFragment"
-        android:name="com.ayd.series.UI.fragments.DetailFragment"
+        android:name="com.ayd.series.ui.fragments.DetailFragment"
         android:label="Detail"
         tools:layout="@layout/fragment_detail" />
     <fragment
         android:id="@+id/favoriteAvatarFragment"
-        android:name="com.ayd.series.UI.fragments.FavoriteAvatarFragment"
+        android:name="com.ayd.series.ui.fragments.FavoriteAvatarFragment"
         android:label="Favorite"
         tools:layout="@layout/fragment_favorite_avatar" />
 </navigation>
