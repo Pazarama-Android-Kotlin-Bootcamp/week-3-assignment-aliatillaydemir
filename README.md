@@ -13,3 +13,9 @@
 
 <img src="https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-3-assignment-aliatillaydemir/blob/main/Project%20Plans/Project%20Plan.png"> 
 
+
+## Proje Fotoları:
+
+<img src="https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-3-assignment-aliatillaydemir/blob/main/Proje%20Foto/Screenshot_9.png"> <img src="https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-3-assignment-aliatillaydemir/blob/main/Proje%20Foto/Screenshot_10.png"> <img src="https://github.com/Pazarama-Android-Kotlin-Bootcamp/week-3-assignment-aliatillaydemir/blob/main/Proje%20Foto/Screenshot_11.png"> 
+ 
+
