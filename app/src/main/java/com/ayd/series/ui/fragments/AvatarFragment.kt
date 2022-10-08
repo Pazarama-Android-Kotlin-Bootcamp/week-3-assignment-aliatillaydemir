@@ -58,7 +58,6 @@ class AvatarFragment : Fragment() {
         }
     }
 
-
     private fun applyQueries(): HashMap<String,String>{
         val queries: HashMap<String,String> = HashMap()
          //queries["avatar"]
